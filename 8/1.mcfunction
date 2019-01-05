@@ -1,1 +1,1 @@
-summon minecraft:armor_stand ~ ~ ~ {Invisible:1b,NoGravity:1b,CustomName:"§b§l你好"}
+summon minecraft:armor_stand ~ ~ ~ {Invisible:1b,NoGravity:1b,CustomName:"你好",CustomNameVisible:1b}
